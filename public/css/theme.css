@@ -31,6 +31,10 @@
     height: 100%;
   }
   
+ a {
+  color: #333!important;;
+  text-decoration: none!important;
+ }  
   /* "Primary" Button */
   .btn-primary {
     background-color: #f00; /* Set a solid background color */
